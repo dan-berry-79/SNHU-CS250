@@ -24,7 +24,7 @@ This repository contains the following artifacts from my CS 250 Software Develop
 
 - [Sprint Review and Retrospective — Portfolio Edition](CS250_Sprint_Review_and_Retrospective_Portfolio.pdf) — A retrospective examining simulated Scrum roles, user stories, changing requirements, communication, and Agile development practices in the SNHU Travel project.
 
-- Agile Presentation — A course presentation exploring Agile software development concepts and practices.
+- [Agile Presentation — Portfolio Edition](CS250_Agile_Presentation_Portfolio.pdf) — A course presentation exploring Agile software development concepts and practices.
 
 ## Reflection
 This course helped me better understand how user needs are translated into software requirements through the use of user stories. User stories provide a structured way to identify customer needs and prioritize features that deliver value. Throughout the SNHU Travel project, I learned how Agile practices allow requirements to evolve while keeping development aligned with customer expectations.
